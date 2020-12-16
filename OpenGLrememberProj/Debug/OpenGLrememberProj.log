@@ -1,0 +1,6 @@
+﻿  Render.cpp
+C:\Users\user\Desktop\kurs\OpenGLrememberProj\Render.cpp(22,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\user\Desktop\kurs\OpenGLrememberProj\Render.cpp(219,31): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\user\Desktop\kurs\OpenGLrememberProj\Render.cpp(219,40): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\user\Desktop\kurs\OpenGLrememberProj\Render.cpp(219,49): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+  OpenGLrememberProj.vcxproj -> C:\Users\user\Desktop\kurs\Debug\OpenGLrememberProj.exe
